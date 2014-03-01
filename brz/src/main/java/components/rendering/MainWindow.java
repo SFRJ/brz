@@ -7,6 +7,18 @@ import java.awt.*;
 import static java.awt.Toolkit.getDefaultToolkit;
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
+/*
+*  TODO
+*  1- Find right place of ORP
+*  2- Calculate correctly wait times
+*  3- Make sure ORP is always centered when text is moving
+*  4- Make all the screen opaque when the app is running
+*  5- Don't permit multiple threads to run at once
+*  6- Don't permit multiple windows to open at once
+*  7- Refactor into a more object oriented way
+*  8- Add a bit of testing
+* */
+
 public class MainWindow {
 
     //TODO : Make sure there is only one application instance running

@@ -63,21 +63,7 @@
     <favorites_list name="brz" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PlayButton.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/components/buttons/PlayButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="19" selection-start="2776" selection-end="2776" vertical-scroll-proportion="0.3857143" vertical-offset="1350" max-vertical-offset="2772">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1311#2446#0" expanded="true" />
-                <element signature="e#2435#2436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -100,7 +86,6 @@
         <option value="$PROJECT_DIR$/src/main/java/components/CommandsBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/rendering/MainPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/buttons/PauseButton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/components/rendering/MainWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/buttons/LoadButton.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/Text.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/rendering/VisualizationBoard.java" />
@@ -109,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/main/java/components/buttons/SpeedSelectionTool.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/rendering/TextInputWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/components/buttons/PlayButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/components/rendering/MainWindow.java" />
       </list>
     </option>
   </component>
@@ -492,16 +478,16 @@
       <updated>1393357837120</updated>
       <workItem from="1393357846150" duration="10269000" />
       <workItem from="1393542225496" duration="5253000" />
-      <workItem from="1393677746670" duration="8202000" />
+      <workItem from="1393677746670" duration="9043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23724000" />
+    <option name="totallyTimeSpent" value="24565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -521,7 +507,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -595,13 +581,6 @@
     <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/javax/swing/AbstractButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1921" column="16" selection-start="68055" selection-end="68055" vertical-scroll-proportion="0.0" vertical-offset="32875" max-vertical-offset="54432">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/components/rendering/MainWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="373" selection-end="451" vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="864">
           <folding />
         </state>
       </provider>
@@ -682,6 +661,13 @@
             <element signature="e#1311#2446#0" expanded="true" />
             <element signature="e#2435#2436#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/components/rendering/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="543" selection-end="543" vertical-scroll-proportion="0.55714285" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
         </state>
       </provider>
     </entry>
